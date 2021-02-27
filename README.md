@@ -19,3 +19,4 @@ npm run serve
 ```
 vue ui
 ```
+then navigate to "Tasks" and follow the steps.

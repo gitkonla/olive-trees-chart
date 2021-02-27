@@ -11,7 +11,6 @@ If plotly is not installed directly, do so with:
 npm install vue-plotly
 ```
 ## Run
-Navigate to 'olive_project'
 ```
 npm run serve
 ```
